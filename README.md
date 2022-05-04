@@ -32,8 +32,8 @@
 </style>
 
 <body>
-    <article>
-        <section>
+    
+        
             <header>
                 <h1>Mayko Brito Marinho</h1>
             </header>
@@ -46,7 +46,7 @@
             Academico do curso Sistemas de Internet, trabalho atualmente Suporte técnico em TI nivel 1, nivel2 e nive3. <br>Sou Católico praticante, Nascido em Gurupi -TO vim para Palmas em 1994 com meu pais, sou cara tranquilo <br>a maior parte da minha
             adolecência vivi dentro do exercito onde tive uma otima escola de vida com uma vasta <br>experiência, considero um cara justo, alegre, amigo e com objetivos traçado.</p>
 
-        </section>
+       
         <header>
             <h1>Assuntos estudado atualmente</h1>
         </header>
@@ -68,7 +68,7 @@
             </p>
         </aside>
         </header>
-        <section>
+        
             <header>
                 <h1>Assuntos para Estudos Futuro</h1>
             </header>
@@ -86,9 +86,9 @@
                 <p><a href="https://www.devmedia.com.br/programacao-orientada-a-objetos-com-java/18449">www.alura.com.br/</a></p>
 
 
-        </section>
+        
 
-        <section>
+        
             <table border="3">
                 <caption><u>Grade Curricular</u></caption>
                 <thead>
